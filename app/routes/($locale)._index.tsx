@@ -65,7 +65,7 @@ export default function Homepage() {
       <RecommendedProducts products={data.recommendedProducts} />
     </div>*/
     <div>
-    <h1>Welcome to my Hydrogen Store</h1>
+    <h1>Welcome to my Hydrogen Store NEw</h1>
   </div>
   );
 }
